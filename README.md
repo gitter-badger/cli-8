@@ -1,4 +1,6 @@
 # UniteJS CLI
+
+[![Join the chat at https://gitter.im/unitejs/cli](https://badges.gitter.im/unitejs/cli.svg)](https://gitter.im/unitejs/cli?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Command line interface to the UniteJS JavaScript framework management tool.
 
 This will generate a scaffold app with the options you specify.
